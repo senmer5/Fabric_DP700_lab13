@@ -1,4 +1,3 @@
-
 # Creating a Real-Time Dashboard with Microsoft Fabric 📊✨
 
 ## Lab Objective 🎯
@@ -104,8 +103,7 @@ The goal of this lab is to learn how to create a dynamic and interactive real-ti
 - Using base queries for efficient and performant data management.
 - Adding parameters for user-driven data filtering.
 - Managing dashboard pages and layouts.
-- Configuring automatic refresh for live data updates.
-- Cleaning up resources to control costs effectively.
+
 
 ---
 
